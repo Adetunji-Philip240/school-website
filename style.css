@@ -60,6 +60,13 @@
   z-index: 1;
 }
 
+.enrol {
+  padding: 10px 20px;
+  background: none;
+  border: 2px solid var(--color2);
+  color: var(--color2);
+  border-radius: 10px;
+}
 /*Mobile Screen */
 @media (max-width: 767px) {
   .nav2-lg {
